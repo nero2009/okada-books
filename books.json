@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "id": 101, 
+      "title": "Without A Silver Spoon", 
+      "author":"Peter Thiel", 
+      "year_published": 2014,
+      "category":"non-fiction",
+      "rating": 4.03,
+      "image": "1.jpg"
+    },
+    {
+      "id": 102, 
+      "title": "The Woman Next Door", 
+      "author": "Yetunde ", 
+      "year_published": 1889,
+      "category":"non-fiction",
+      "rating": 4.20,
+      "image": "2.jpg"
+    },
+    {
+      "id": 103, 
+      "title": "The Face", 
+      "author": "Chris Abani", 
+      "year_published": 2001,
+      "category":"fiction",
+      "rating": 4.20,
+      "image": "3.jpg"
+    },
+    {
+      "id": 104, 
+      "title": "Born A Crime", 
+      "author": "Trevor Noah ", 
+      "year_published": 2001,
+      "category":"fiction",
+      "rating": 4.20,
+      "image": "4.jpg"
+    },
+    {
+      "id": 105, 
+      "title": "Americanah", 
+      "author": "Chimamanda", 
+      "year_published": 1889,
+      "category":"comedy",
+      "rating": 4.20,
+      "image": "5.jpg"
+    },
+    {
+      "id": 106,
+      "title": "I Do Not Come To You By Change", 
+      "author": "Charles Idowu", 
+      "year_published": 2009,
+      "category":"comedy",
+      "rating": 6.20,
+      "image": "6.jpg"
+    },
+    {
+      "id": 107, 
+      "title": "Beautiful Ruins", 
+      "author": "Charles Darwin", 
+      "year_published": 1889,
+      "category":"adventure",
+      "rating": 4.20,
+      "image": "7.jpg"
+    },
+    {
+      "id": 108, 
+      "title": "The Odyssey", 
+      "author": "Charles Darwin", 
+      "year_published": 1889,
+      "category":"adventure",
+      "rating": 4.20,
+      "image": "8.jpg"
+    }
+
+
+  ]
+}
