@@ -30,7 +30,7 @@ const ShowCategories = (props) => {
 
     return (
         <div>
-
+            <h1>Books</h1>
             {getSelectCategory(props)}
             
         </div>
